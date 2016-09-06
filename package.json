@@ -1,0 +1,16 @@
+{
+  "name": "hello-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nico Hämäläinen <nico@sizeof.io> (http://sizeof.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "graphql": "^0.7.0"
+  }
+}
